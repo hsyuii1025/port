@@ -1,0 +1,38 @@
+.header{
+    height: 50px;
+}
+
+a{
+    display: inline-block;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav_bar{
+    padding: 2px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav_bar_items{
+    padding: 10px;
+    letter-spacing: 2px;
+}
+
+.nav_bar_items:hover{
+    color: #41D3BD;
+    background-color: #FFFFF2;
+    border-radius: 5px;
+}
+
+.home{
+    padding: 10px 0px 10px 10px;
+    letter-spacing: 5px;
+}
+
+.home:hover{
+    color: #FFFFF2;
+}

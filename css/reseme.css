@@ -1,0 +1,207 @@
+
+
+.page{
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+
+.no_style{
+    margin: 0;
+    padding: 0;
+}
+
+/*text color*/
+
+.green{
+    color:#41D3BD;
+}
+
+.white{
+    color:#FFFFF2;
+}
+
+.orange{
+    color:#FDAB4A;
+}
+
+.black{
+    color: #170312;
+}
+
+/*bgc*/
+
+.bg_green{
+    background-color:#41D3BD;
+}
+
+.bg_white{
+    background-color:#FFFFF2;
+}
+
+.bg_orange{
+    background-color:#FDAB4A;
+}
+
+.bg_black{
+    background-color: #170312;
+}
+
+/*font_size*/
+.lg_font{
+    font-size: 20px;
+}
+
+.mid_font{
+    font-size: 17px;
+}
+
+.sm_font{
+    font-size: 14px;
+}
+
+/*col&row*/
+.row{}
+
+
+
+/*.col-2{
+    padding: 20px;
+}
+
+.col-3{
+}
+*/
+.col-4{
+    padding-left: 0px;
+}
+.col-8{
+    padding-right: 0px;
+}
+/*
+.col-10{
+    padding: 20px;
+}
+
+/*main*/
+.fix{
+    padding-right: ;
+}
+
+.hot_zone{
+    display: flex;
+    justify-content: space-between;
+}
+
+.main{
+    height: auto;
+    border-bottom: 1px solid #170312;
+    display: flex;
+    padding: 28.5px 20px;
+    margin: 0;
+}
+
+.middle{ 
+    display: flex;
+    align-items: center;
+}
+
+.me{
+    width: 100%;
+}
+
+.hashtag{
+    line-height: 30px;
+    letter-spacing: 1px;
+}
+
+.aboutme{
+    border-bottom: 1px solid #170312;
+    padding: 50px;
+    margin: 0;
+}
+
+.aboutme_title{
+    letter-spacing: 3px;
+}
+
+.aboutme_content{
+    padding:0px 10px 0px 20px;
+    letter-spacing: 1px;
+    line-height: 30px;
+}
+
+.experience{
+    display: flex;
+
+    padding:82px 35px ;
+    margin: 0;
+    border-top:1px solid #FFFFF2;
+    border-right: 1px solid #FFFFF2;
+}
+
+.experience_items{
+    padding-left: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.experience_items_title{
+    font-weight: 900;
+    letter-spacing: 5px;
+}
+
+.experience_items_content{
+    letter-spacing: 2px;
+    line-height: 30px;
+    margin: -10px 0px;
+}
+
+.line{
+
+    width: 14px;
+}
+
+/*skill*/
+.skill{
+    
+    margin: 0;
+    border: 1px solid #170312;
+    padding: 50px 0px 20px 80px;
+}
+
+.soft{
+    padding-bottom: 50px;
+    margin: 0;
+}
+
+.icon{
+    width: 100%;
+    padding: 20px;
+}
+
+.icon_content{
+    padding: 0px 5px;
+    text-align: center;
+}
+
+.skill_content{
+    display: flex;
+    flex-direction: column;
+}
+
+.skill_content_items{
+    padding-top: 30px;
+    padding-bottom: 0px;
+}
+
+.skill_content_items_title{
+    font-weight: 900;
+    letter-spacing: 5px;
+}
+
+.skill_content_items_content{
+    letter-spacing: 2px;
+    line-height: 30px;
+}
